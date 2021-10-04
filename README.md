@@ -1,7 +1,7 @@
 In this repository you will find a all the obj file which was  exported from tinkercad.<br>
 They are also available the GCODES which was exported to be used in a Original Prusa i3 MK3, with a filament Fillamentum ASA with the following tweaks: <br>
 - Fan off
-- The bed will decrease the temperature slowly.
+- The bed will decrease the temperature slowly after finishing the print.
 
 This enclosure is to be used with the following [PCB](https://github.com/unparallel-innovation/WeatherStation-PCB)
 
