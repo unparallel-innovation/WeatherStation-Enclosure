@@ -33,3 +33,5 @@ This enclosure is to be used with the following [PCB](https://github.com/unparal
 # Panel Support 
 ![Screen Shot 2021-10-04 at 15 12 19](https://user-images.githubusercontent.com/26066095/135866798-eaec5687-180b-4704-9a04-91e3fd433735.png)
 ![Screen Shot 2021-10-04 at 15 13 19](https://user-images.githubusercontent.com/26066095/135866984-91180aa9-8383-44cf-815e-2943200998aa.png)
+
+###### This work was done in the context of SmartAgriHubs Research Project, which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 818182
