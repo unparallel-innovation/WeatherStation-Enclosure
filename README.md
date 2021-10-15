@@ -9,13 +9,14 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
+This enclosure was developed in the context of building the Unparallel Weather Station which will allows anyone to build their own low-cost weather station, using our custom open-source [PCB](https://github.com/unparallel-innovation/WeatherStation-PCB). This enclosure will protect all the connections and the PCB from weather conditions.
+The [software](https://github.com/unparallel-innovation/WeatherStation-Software) for the weather station is also open-source and can be used as is, or freely customized to meet your own needs and requirements.
 
-In this repository you will find a all the obj file which was  exported from tinkercad.<br>
-They are also available the GCODES which was exported to be used in a Original Prusa i3 MK3, with a filament Fillamentum ASA with the following tweaks: <br>
+In this repository you will find all the obj file which was  exported from tinkercad.<br>
+They are also available the GCODES which was created to be used in a Original Prusa i3 MK3, with a filament Fillamentum ASA with the following tweaks: <br>
 - Fan off
 - The bed will decrease the temperature slowly after finishing the print.
 
-This enclosure is to be used with the following [PCB](https://github.com/unparallel-innovation/WeatherStation-PCB)
 
 # Box <br>
 ![Screen Shot 2021-10-04 at 14 37 57](https://user-images.githubusercontent.com/26066095/135861371-4b33798e-c13c-4b3e-a073-05eb0cf9e297.png)
