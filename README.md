@@ -17,6 +17,15 @@ They are also available the GCODES which was created to be used in a Original Pr
 - Fan off
 - The bed will decrease the temperature slowly after finishing the print.
 
+These files can be printed by yourself, if you have a 3D Printer or use some of this stores which can print that to you:
+- https://i.materialise.com/en/3dprint
+- https://www.pcbway.com/rapid-prototyping/manufacture/
+- https://craftcloud3d.com/ 
+- https://www.shapeways.com
+- https://iglidur-designer.igus.tools
+- https://www.sculpteo.com/en/
+
+
 
 # Box <br>
 ![Screen Shot 2021-10-04 at 14 37 57](https://user-images.githubusercontent.com/26066095/135861371-4b33798e-c13c-4b3e-a073-05eb0cf9e297.png)
