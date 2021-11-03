@@ -29,6 +29,12 @@ These files can be printed by yourself, if you have a 3D Printer or use some of 
 - https://iglidur-designer.igus.tools
 - https://www.sculpteo.com/en/
 
+## Material Needed:
+* [Screws M2x6](https://www.tme.eu/pt/details/b2x6_bn20039/cavilhas/bossard/3183884/)
+* [Screws M2.5X16](https://www.tme.eu/pt/details/m2.5x16_d912-a4/cavilhas/kraftberg/)
+* [Hexagon Nuts M2.5](https://www.tme.eu/pt/en/details/b2.5_bn629/nuts/bossard/1348426/)
+
+
 ## Related Repositories:
 *	[Unparallel WeatherStation Enclosure](https://github.com/unparallel-innovation/WeatherStation-Enclosure)
 *	[Unparallel WeatherStation Software](https://github.com/unparallel-innovation/WeatherStation-Software)
