@@ -41,9 +41,8 @@ These files can be printed by yourself, if you have a 3D Printer or use some of 
 *	[Unparallel WeatherStation Connector](https://github.com/unparallel-innovation/WeatherStation-Connector)
 
 # Box <br>
-![Screen Shot 2021-10-04 at 14 37 57](https://user-images.githubusercontent.com/26066095/135861371-4b33798e-c13c-4b3e-a073-05eb0cf9e297.png)
-
-![Screen Shot 2021-10-04 at 14 50 09](https://user-images.githubusercontent.com/26066095/135863256-3f0c2798-9674-4cac-936c-091c9646927c.png)
+![Screen Shot 2021-12-13 at 15 39 30](https://user-images.githubusercontent.com/26066095/145841977-a4190fca-99a4-4325-ba91-5ddd7c4fc6b7.png)
+![Screen Shot 2021-12-13 at 15 40 21](https://user-images.githubusercontent.com/26066095/145842167-ca50fe90-bc3f-4f6a-a085-a662f0e29866.png)
 
 # Cover
 ![Screen Shot 2021-10-04 at 14 52 22](https://user-images.githubusercontent.com/26066095/135863587-1ac4f1ed-bb31-4e4b-985d-14917cd4e857.png)
