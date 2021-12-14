@@ -36,7 +36,7 @@ These files can be printed by yourself, if you have a 3D Printer or use some of 
 
 
 ## Related Repositories:
-*	[Unparallel WeatherStation Enclosure](https://github.com/unparallel-innovation/WeatherStation-Enclosure)
+*	[Unparallel WeatherStation PCB](https://github.com/unparallel-innovation/WeatherStation-PCB)
 *	[Unparallel WeatherStation Software](https://github.com/unparallel-innovation/WeatherStation-Software)
 *	[Unparallel WeatherStation Connector](https://github.com/unparallel-innovation/WeatherStation-Connector)
 
@@ -48,7 +48,7 @@ These files can be printed by yourself, if you have a 3D Printer or use some of 
 ![Screen Shot 2021-10-04 at 14 52 22](https://user-images.githubusercontent.com/26066095/135863587-1ac4f1ed-bb31-4e4b-985d-14917cd4e857.png)
 ![Screen Shot 2021-10-04 at 14 52 54](https://user-images.githubusercontent.com/26066095/135863695-c75a7d51-c73e-4864-b770-4e465dad76c8.png)
 
-# Supports
+# Singular and Double Support for box
 ![Screen Shot 2021-10-04 at 15 08 36](https://user-images.githubusercontent.com/26066095/135866191-9ff66586-4e1c-4d89-99c2-119e5bfd836a.png)
 ![Screen Shot 2021-10-04 at 15 09 24](https://user-images.githubusercontent.com/26066095/135866306-be8ee5a4-716f-44e3-a514-b978f83a1e04.png)
 
