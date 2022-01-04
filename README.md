@@ -10,7 +10,8 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # Weather Station Enclosure
-This enclosure was developed in the context of building the Unparallel Weather Station which will allows anyone to build their own low-cost weather station, using our custom open-source [PCB](https://github.com/unparallel-innovation/WeatherStation-PCB). This enclosure will protect all the connections and the PCB from weather conditions.
+This enclosure was developed in the context of building the Unparallel Weather Station which will allows anyone to build their own low-cost weather station, using our custom open-source [PCB](https://github.com/unparallel-innovation/WeatherStation-PCB). This enclosure will protect all the connections and the PCB from weather conditions. <br>
+In order to assembly the enclosure, please follow the [online manual](https://unparallel-innovation.github.io/WeatherStation-Documentation/). <br>
 The [software](https://github.com/unparallel-innovation/WeatherStation-Software) for the weather station is also open-source and can be used as is, or freely customized to meet your own needs and requirements.
 
 ![Screen_Shot_2021_10_04_at_15 30 40](https://user-images.githubusercontent.com/26066095/138713219-c90ea93e-5307-4b6b-b340-df82bbf6a2a4.png)
@@ -39,6 +40,7 @@ These files can be printed by yourself, if you have a 3D Printer or use some of 
 *	[Unparallel WeatherStation PCB](https://github.com/unparallel-innovation/WeatherStation-PCB)
 *	[Unparallel WeatherStation Software](https://github.com/unparallel-innovation/WeatherStation-Software)
 *	[Unparallel WeatherStation Connector](https://github.com/unparallel-innovation/WeatherStation-Connector)
+*	[Unparallel WeatherStation Documentation](https://github.com/unparallel-innovation/WeatherStation-Documentation)
 
 # Box <br>
 ![Screen Shot 2021-12-13 at 15 39 30](https://user-images.githubusercontent.com/26066095/145841977-a4190fca-99a4-4325-ba91-5ddd7c4fc6b7.png)
