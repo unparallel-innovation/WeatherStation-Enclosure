@@ -34,6 +34,8 @@ These files can be printed by yourself, if you have a 3D Printer or use some of 
 * [Screws M2x6](https://www.tme.eu/pt/details/b2x6_bn20039/cavilhas/bossard/3183884/)
 * [Screws M2.5X16](https://www.tme.eu/pt/details/m2.5x16_d912-a4/cavilhas/kraftberg/)
 * [Hexagon Nuts M2.5](https://www.tme.eu/pt/en/details/b2.5_bn629/nuts/bossard/1348426/)
+* [Screws M4X40](https://www.tme.eu/en/details/b4x16_bn3310/bolts/bossard/1544322/)
+* [Hexagon nuts M4](https://www.tme.eu/en/details/b4_bn117/nuts/bossard/1089552/)
 
 
 ## Related Repositories:
@@ -57,5 +59,9 @@ These files can be printed by yourself, if you have a 3D Printer or use some of 
 # Panel Support 
 ![Screen Shot 2021-10-04 at 15 12 19](https://user-images.githubusercontent.com/26066095/135866798-eaec5687-180b-4704-9a04-91e3fd433735.png)
 ![Screen Shot 2021-10-04 at 15 13 19](https://user-images.githubusercontent.com/26066095/135866984-91180aa9-8383-44cf-815e-2943200998aa.png)
+
+# Wind Protection
+![Screen Shot 2022-10-03 at 14 39 13](https://user-images.githubusercontent.com/26066095/193591756-77c43ea8-b3ac-4509-9aed-c3ee0f1947b9.png)
+
 
 ###### This work was done in the context of SmartAgriHubs Research Project, which has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 818182
